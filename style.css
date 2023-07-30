@@ -9,6 +9,7 @@ html{
     box-sizing: border-box;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: var(--dark);
+    overflow: hidden;
 }
 body{
     background-color: #ccc;
