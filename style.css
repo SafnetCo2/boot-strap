@@ -165,6 +165,7 @@ footer{
 }
 @media(max-width: 700px){
     .top-container{
+        display: block;
         grid-template-areas:'showcase showcase'
         'top-box-a top-box-b' ;
     }
